@@ -1,0 +1,5 @@
+This is the file
+
+We now have a file called example.txt
+
+This file is in the correct location
