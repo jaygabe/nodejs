@@ -1,5 +1,17 @@
-This is the file
+(err, data) => {
+    if(err) throw err;
+    console.log(data);
+}
 
-We now have a file called example.txt
+This is some other content
 
-This file is in the correct location
+This file contains other things.
+
+(err, data) => {
+    if(err) throw err;
+    console.log(data);
+}
+
+This is some other content
+
+This file contains other things.
